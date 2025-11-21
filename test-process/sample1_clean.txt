@@ -1,0 +1,520 @@
+CMP: INR 76
+
+Rating: BUY
+
+## Target Price: INR 123
+
+| Stock Info | |
+|-----------------------------|------------|
+| BSE | 500183 |
+| NSE | HFCL |
+| Bloomberg | HFCD:LI |
+| Reuters | HFCL.NS |
+| Sector | Cables |
+| Face Value (INR) | 1 |
+| Equity Capital (INR cr) | 144 |
+| Mkt Cap (INR cr) | 10,946 |
+| 52w H/L (INR) | 171 / 71.5 |
+| Avg Yearly Volume (in 000') | 20,704 |
+
+| Shareholding Pattern% (As on Jun, 2025) | |
+|-------------------------------------------|-------|
+| Promoters | 31.58 |
+| Public & Others | 68.42 |
+
+| Stock Performance (%) | 3m | 6m | 12m |
+|-------------------------|-------|------|-------|
+| HFCL | -11.7 | -6.5 | -35.8 |
+| NIFTY | -0.7 | 4.9 | 1.8 |
+
+## HFCL vs Nifty
+
+## Abhishek Jain
+
+abhishek.jain@arihantcapital.com 022-67114871
+
+## Balasubramanian A
+
+bala@arihantcapital.com 022-67114870
+
+## Q1FY26 Result update 28 th Jul, 2025
+
+Data center will be a key opportunity. Defence is expected to pick up from Q2FY26E onwards.
+
+HFCL Ltd reported numbers, Q1FY26 revenue stood at INR 871cr (-24.8% YoY/+8.8% QoQ); below our estimates of INR 1,406cr. Gross Profit stood at INR 236cr (-30.4% YoY/+56% QoQ); below our estimates of INR 413cr. Gross margins contracted by 217 bps YoY (up by 819 bps QoQ) to 27.1% vs 29.3% in Q1FY25. The raw material cost in terms of sales stood at 72.9% vs 70.7% in Q1FY25. EBITDA stood at INR 28cr (-83.8 % YoY/-179.0% QoQ); below our estimates of INR 216cr. EBITDA margin stood at 3.3% vs 15.1% in Q1FY25. PAT stood at INR -29cr vs INR 111cr in Q1FY25, below our estimates of INR 118cr. PAT margin stood at -3.4% vs 9.6% in Q1FY25.
+
+## Key Highlights
+
+Strong growth expected in OFC and Telecom Products: Telecom Products revenue stood at INR 578cr (-18.8% YoY/-5.4% QoQ). EBIT stood at INR 57cr (-19.6% YoY/+958.6% QoQ); EBIT margin contracted by 317 bps YoY (up by 899 bps QoQ) to 9.9% vs 6.7% in Q1FY25. Telecom Products revenue share increased to 66% vs 61% in Q1FY25. OFC business revenue is expected to be around INR 27bn in FY26E. OFC business is expected to grow at a double-digit rate in FY26E, driven by global demand and capacity expansion. The OFC business is witnessing a strong revival due to hyperscale data centers and next-gen digital infrastructure.
+
+Defence revenue is expected from Q2FY26E onwards: Defence order book stood at INR 1,300cr (~12% of the total order book). Defence revenue is expected from Q2FY26E onwards and expected to be INR 2bn+ revenue in FY26E. The company secured a contract for thermal weapon sights for AK-203 rifles and was declared the lowest bidder (L1) for an INR 90cr tender for tactical cables. The company is collaborating with UAV manufacturers to co-develop weaponized drones and is advancing drone detection radars with soft-kill capabilities, expected to enter production in FY26E. Electronic fuses for artillery are undergoing live testing in Aug-25, with production likely to commence post-successful trials. The showcase at the Paris Air Show drew strong global interest, opening doors for future collaborations and exports.
+
+Strong order book shows business visibility: The order book stood at INR 10,480cr in Q1FY26. The company is getting repeated orders for Telecom products. Around INR 3,000cr orders are executable in FY26E, with INR 2,000cr is coming from turnkey projects like BharatNet and the balance from products. The BharatNet Phase III program is a significant contributor, with INR 650cr in router orders already secured and more expected as states roll out implementations.
+
+Data center can be the biggest opportunity: Data center market is projected to exceed $1 trn in the coming years. The company is developing passive connectivity solutions tailored for data centers, which are expected to contribute revenue from FY27E onwards.
+
+Outlook &amp; Valuation: HFCL reported a de-growth of ~25% YoY in Q1FY26; however, the management strongly guided 25% YoY growth in FY26E, which translates into 50% growth is expected in the next 9 months. The growth is majorly driven by OFC (INR 2,700cr, inclusive exports of INR 1,200cr), BharatNet and EPC (INR 1,000cr) and Telecom Products (INR 1,200cr), and Defence (INR 200cr). Overall, the company revenue is expected to cross INR 5,000cr in FY26E. The company has a strong order book of INR 10,480cr (~2.6x of FY25 revenue) and getting regular order inflows in Telecom products. Telecom Products like Routers, Fixed Wireless Access Terminals for 5G applications, and new products like Wi-Fi 7 access points and higher capacity Unlicensed band radios will be a key growth driver. Defence revenue is expected from new product launches, including surveillance radars and electronic fuses. Defence revenue is expected from Q2FY26E onwards. The showcase at the Paris Air Show drew strong global interest, opening doors for future collaborations and exports. Global inventory levels have normalized, leading to renewed demand from telcos and data center operators. The demand is coming from hyperscale data centers will be a key growth driver. The BharatNet and US subsidy program would lead to great opportunities for the company. The revival of exports is backed by inventory normalization, capacity expansion, product portfolio expansion, and a strong client base that would drive the business going forward. At the CMP of INR 76 per share, we maintain our 'BUY' rating at a TP of INR 123 per share based on DCF; an upside of 61.6%.
+
+## Q1FY26 Results
+
+## Income statement summary
+
+| Particular (INR cr) | Q1FY25 | Q4FY25 | Q1FY26 | YoY (%) | QoQ(%) |
+|-----------------------|----------|----------|----------|-----------|----------|
+| Revenue | 1,158 | 801 | 871 | -24.8% | 8.8% |
+| Net Raw Materials | 819 | 649 | 635 | -22.5% | -2.2% |
+| Gross profit | 339 | 151 | 236 | -30.4% | 56.0% |
+| Gross margin (%) | 29.3% | 18.9% | 27.1% | -217 bps | +819 bps |
+| Employee Cost | 89 | 91 | 105 | 18.8% | 15.9% |
+| Other Expenses | 75 | 96 | 102 | 35.8% | 6.1% |
+| EBITDA | 175 | (36) | 28 | -83.8% | -179.0% |
+| EBITDA Margin (%) | 15.1% | -4.5% | 3.3% | -1184 bps | +775 bps |
+| Depreciation | 24 | 30 | 32 | | |
+| Interest expense | 42 | 51 | 56 | | |
+| Other income | 10.5 | 13.6 | 14.5 | | |
+| Profit before tax | 119 | (105) | (45) | | |
+| Taxes | 8 | (22) | (15) | | |
+| PAT | 111 | (83) | (29) | | |
+| PAT Margin (%) | 9.6% | -10.4% | -3.4% | | |
+| EPS (INR) | 0.8 | (0.6) | (0.2) | | |
+
+Source: Company Reports, Arihant Capital Research
+
+Exhibit 1: Gross margins contracted by 217 bps YoY (up by 899 bps QoQ) to 27.1% Q1FY26 due to hgher RM costs.
+
+Source: Company Reports, Arihant Capital Research
+
+Exhibit 2: EBITDA margin stood at 3.3% in Q1FY26, the lower gross margin, higher employee cost and other expenses impacted EBITDA margins.
+
+Source: Company Reports, Arihant Capital Research
+
+## Q1FY26 Concall Highlights
+
+## Revenue
+
+-  Revenue is expected to grow 25% YoY in FY26E.
+-  The growth is majorly driven by OFC (INR 2,700cr, inclusive exports of INR 1,200cr), BharatNet and EPC (INR 1,000cr) and Telecom Products (INR 1,200cr), and Defence (INR 200cr). Overall, the company revenue is expected to cross INR 5,000cr in FY26E.
+
+## Margins
+
+-  OFC margins are expected to be 15% and turnkey margins are expected to be 6%-8%. The profitability is expected to improve from Q2FY26E onwards.
+
+## Order book
+
+-  The order book stood at INR 10,480cr in Q1FY26. The company is getting repeated orders for Telecom products.
+-  Around INR 3,000cr orders are executable in FY26E, with INR 2,000cr is coming from turnkey projects like BharatNet and the balance from products.
+
+## Capex and Capacity expansion
+
+-  The capex is expected to be INR 250cr in FY26E, with INR 130cr allocated to IBR cable capacity in FY26E.
+-  OF capacity stood at 14mn fiber km/annum and is expected to reach 33.9mn fiber km/annum going forward.
+-  OFC capacity stood at 25mn fiber km/annum and is expected to reach 42.3mn fiber km/annum going forward. The expansion in Goa and Hyderabad facilities would lead to a global supplier of OFC, especially for markets in North America and Europe.
+-  The IBR cable capacity expansion of 1.73mn fiber km leads to an increase in the capacity of 19.01mn fiber km.
+
+## OFC
+
+-  OFC business is expected to grow at a double-digit rate in FY26E, driven by global demand and capacity expansion.
+-  The OFC business is witnessing a strong revival due to hyperscale data centers and next-gen digital infrastructure.
+-  OFC business revenue is expected to be around INR 27bn in FY26E.
+
+## OF and OFC prices
+
+-  OF prices were around INR 240-250/f.km and OFC prices were around 850-900/f.km in Q1FY26.
+
+## Defence
+
+-  Defence order book stood at INR 1,300cr (~12% of the total order book).
+-  Defence revenue is expected to be INR 2bn+ in FY26E.
+-  The company secured a contract for thermal weapon sights for AK-203 rifles and was declared the lowest bidder (L1) for an INR 90cr tender for tactical cables.
+
+## Q1FY26 Concall Highlights
+
+## Passive Connectivity solutions and Data centers
+
+-  The company is developing passive connectivity solutions tailored for data centers, which are expected to contribute revenue from FY27E onwards.
+-  Revenue from passive connectivity solutions for telecom operators is targeted at INR 450cr in FY26E.
+
+## Bharat Net
+
+-  The BharatNet Phase III program is a significant contributor, with INR 650cr in router orders already secured and more expected as states roll out implementations.
+-  BharatNet revenue is expected to be INR 1,000cr in FY26E.
+
+## Exports
+
+-  Exports order book stood at INR 400cr and is witnessing strong traction from European and Asian markets for high-value fiber products. Around 50% of OFC revenue is expected to come from exports in FY26E.
+-  The company's high-value fiber products, including IBR cables, are gaining traction in stringent markets like Europe and Asia.
+
+## Inventory
+
+-  Global inventory levels have normalized, leading to renewed demand from telcos and data center operators.
+
+## New Products and Launches
+
+-  The company is developing next-gen defence products like weaponized drones, drone detection radars, and precision-guided missiles through collaborations with DRDO.
+-  In telecom, the company is advancing 5G and enterprise connectivity solutions, including indigenous 5G networking equipment.
+
+## Industry
+
+-  India has made remarkable progress in 5G deployment, covering over 82% of the population within 22 months of launch, while rural 5G expansion remains underway.
+-  OFC market is experiencing a resurgence after a period of subdued demand, fueled by the rapid expansion of hyperscale data centers and next-generation digital networks.
+-  India's push for self-reliance (Atmanirbhar Bharat) in defence manufacturing has created opportunities for companies like HFCL to supply indigenous solutions such as thermal weapon sights, tactical cables, and electronic fuses.
+-  Data center market is projected to exceed $1 trn in the coming years.
+
+## Growth Drivers
+
+-  The key growth drivers include the global surge in OFC demand, BharatNet execution, defence modernization, and data center expansion.
+
+## Products and New Launches
+
+Exhibit 3: Product Offerings
+
+## Telecom
+
+## Passive Connectivity Solutions
+
+Source: Company reports, Arihant Capital Research
+
+Exhibit 4: HFCL has launched Telecom &amp; Defence products and some of them under development. Defence revenue is expected from Q2FY26E onwards.
+
+## Products Under Development
+
+## Telecommunication and Networking
+
+- New Variants for Wi-Fi 6 and Wi-Fi 7 Access Points
+- Variants of IP/MPLS Routers
+- Global variantsof OutdoorFWA CPEs
+
+Source: Company reports, Arihant Capital Research
+
+## Products Under Development
+
+## Defence Communication and Electronics
+
+- Coastal Surveillance and Drone Detection Radar
+- Multi Mode Hand Grenades
+
+## Wire Harness Portfolio
+
+Outlook &amp; Valuation: HFCL reported a de-growth of ~25% YoY in Q1FY26; however, the management strongly guided 25% YoY growth in FY26E, which translates into 50% growth is expected in the next 9 months. The growth is majorly driven by OFC (INR 2,700cr, inclusive exports of INR 1,200cr), BharatNet and EPC (INR 1,000cr) and Telecom Products (INR 1,200cr), and Defence (INR 200cr). Overall, the company revenue is expected to cross INR 5,000cr in FY26E. The company has a strong order book of INR 10,480cr (~2.6x of FY25 revenue) and getting regular order inflows in Telecom products. Telecom Products like Routers, Fixed Wireless Access Terminals for 5G applications, and new products like Wi-Fi 7 access points and higher capacity Unlicensed band radios will be a key growth driver. Defence revenue is expected from new product launches, including surveillance radars and electronic fuses. Defence revenue is expected from Q2FY26E onwards. The showcase at the Paris Air Show drew strong global interest, opening doors for future collaborations and exports. Global inventory levels have normalized, leading to renewed demand from telcos and data center operators. The demand is coming from hyperscale data centers will be a key growth driver. The BharatNet and US subsidy program would lead to great opportunities for the company. The revival of exports is backed by inventory normalization, capacity expansion, product portfolio expansion, and a strong client base that would drive the business going forward. At the CMP of INR 76 per share, we maintain our 'BUY' rating at a TP of INR 123 per share based on DCF; an upside of 61.6%.
+
+## DCF Valuation
+
+## Valuation Assumptions
+
+| g (World Economic | 3.5% |
+|---------------------|--------|
+| Rf | 6.4% |
+| Rm | 11% |
+| Beta | 0.9 |
+| CMP (INR) | 76 |
+
+| Valuation Data | |
+|------------------------------------------|--------|
+| Total Debt (long term borrowings) (2025) | 400 |
+| Cash &Cash Equivalents (2025) | 491 |
+| Number of Diluted Shares (2025) | 144 |
+| Tax Rate (2026) | 26% |
+| Interest Expense Rate (2026) | 12% |
+| MVof Equity | 10,946 |
+| Total Debt | 400 |
+| Total Capital | 11,345 |
+
+| WACC | |
+|--------|-------|
+| We | 96.5% |
+| Wd | 3.5% |
+| Ke | 10.3% |
+| Kd | 8.9% |
+| WACC | 10.3% |
+
+| FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price | FCFF &Target Price |
+|----------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| FCFF &Target Price | Explicit Forecast Period | Explicit Forecast Period | Explicit Forecast Period | Explicit Forecast Period | Explicit Forecast Period | Explicit Forecast Period | Linear Decline Phase | Linear Decline Phase | Linear Decline Phase | Linear Decline Phase | Terminal Yr | Terminal Yr |
+| Particular (INR cr) | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2037 |
+| EBIT * (1-Tax Rate) | 315 | 417 | 535 | 688 | 871 | 1,098 | 1,344 | 1,595 | 1,831 | 2,034 | 2,182 | 2,258 |
+| Dep | 94 | 103 | 112 | 118 | 134 | 141 | 229 | 271 | 311 | 346 | 371 | 384 |
+| Purchase of Assets | (260) | (146) | (148) | (115) | (101) | (103) | (94) | (112) | (128) | (142) | (153) | (158) |
+| Changes in Working Capital | 549 | (476) | 300 | (248) | (330) | (718) | (94) | (112) | (128) | (142) | (153) | (158) |
+| FCFF | 698 | (102) | 798 | 443 | 573 | 418 | 1,385 | 1,642 | 1,886 | 2,095 | 2,247 | 2,326 |
+| Terminal Value | | | | | | | | | | | 34,448 | |
+| Total Cash Flow | 698 | (102) | 798 | 443 | 573 | 418 | 1,385 | 1,642 | 1,886 | 2,095 | 36,696 | |
+
+| Enterprise Value (EV) | 17,596 |
+|------------------------------|----------|
+| Less: Debt | 400 |
+| Add: Cash | 491 |
+| Equity Value | 17,688 |
+| Equity Value per share (INR) | 123 |
+
+% Returns
+
+Rating
+
+## Sensitivity Analysis
+
+| | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) | Terminal Growth (%) |
+|-------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| 123 | 2.5% | 2.8% | 3.0% | 3.3% | 3.5% | 3.8% | 4.0% | 4.3% | 4.5% |
+| 9.3% | 131 | 135 | 140 | 144 | 150 | 155 | 162 | 169 | 176 |
+| 9.5% | 125 | 129 | 133 | 137 | 142 | 147 | 153 | 159 | 166 |
+| 9.8% | 119 | 123 | 127 | 131 | 135 | 140 | 145 | 150 | 157 |
+| 10.0% | 114 | 118 | 121 | 125 | 129 | 133 | 138 | 143 | 148 |
+| 10.3% | 110 | 113 | 116 | 119 | 123 | 127 | 131 | 135 | 140 |
+| 10.5% | 105 | 108 | 111 | 114 | 117 | 121 | 125 | 129 | 133 |
+| 10.8% | 101 | 104 | 106 | 109 | 112 | 115 | 119 | 123 | 127 |
+| 11.0% | 97 | 100 | 102 | 105 | 107 | 110 | 114 | 117 | 121 |
+| 11.3% | 94 | 96 | 98 | 100 | 103 | 106 | 109 | 112 | 115 |
+
+Source: Company reports, Arihant Capital Research
+
+61.6%
+
+BUY
+
+## Financial Statements
+
+## Income statement summary
+
+| Y/e 31 Mar (INR cr) | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26E | FY27E |
+|----------------------------|--------|--------|--------|--------|--------|--------|---------|---------|
+| Revenue | 3,839 | 4,423 | 4,727 | 4,743 | 4,465 | 4,065 | 5,024 | 6,169 |
+| Net Raw Materials | 2,934 | 3,404 | 3,499 | 3,479 | 3,220 | 2,944 | 3,576 | 4,374 |
+| Employee Cost | 224 | 253 | 311 | 348 | 351 | 364 | 495 | 601 |
+| Other Expenses | 186 | 217 | 268 | 298 | 313 | 308 | 433 | 525 |
+| EBITDA | 494 | 550 | 650 | 619 | 582 | 449 | 520 | 669 |
+| EBITDA Margin (%) | 12.9% | 12.4% | 13.8% | 13.0% | 13.0% | 11.0% | 10.4% | 10.8% |
+| Depreciation | (42) | (69) | (78) | (83) | (82) | (106) | (94) | (103) |
+| Interest expense | (115) | (175) | (166) | (152) | (147) | (185) | (207) | (183) |
+| Other income | 22 | 35 | 43 | 47 | 101 | 58 | 66 | 150 |
+| Profit before tax | 358 | 337 | 442 | 431 | 454 | 217 | 285 | 532 |
+| Taxes | (121) | (91) | (116) | (113) | (117) | (43) | (67) | (136) |
+| PAT | 237 | 246 | 326 | 318 | 338 | 173 | 218 | 395 |
+| PAT Margin (%) | 6.2% | 5.6% | 6.9% | 6.7% | 7.6% | 4.3% | 4.3% | 6.4% |
+| Other Comprehensive income | 1 | 5 | 2 | 2 | 130 | (36) | - | - |
+| Total comprehensive income | 238 | 251 | 328 | 319 | 467 | 137 | 218 | 395 |
+| EPS (INR) | 1.9 | 2.0 | 2.4 | 2.3 | 3.2 | 1.0 | 1.5 | 2.7 |
+
+Source: Company Reports, Arihant Capital Research
+
+## Balance sheet summary
+
+| Y/e 31 Mar (INR cr) | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26E | FY27E |
+|---------------------------------|--------|---------|---------|--------|--------|---------|---------|---------|
+| Equity capital | 128 | 128 | 137 | 138 | 144 | 144 | 144 | 144 |
+| Reserves | 1,540 | 1,788 | 2,661 | 2,970 | 3,812 | 3,935 | 4,117 | 4,446 |
+| Net worth | 1,668 | 1,916 | 2,798 | 3,108 | 3,956 | 4,079 | 4,261 | 4,591 |
+| Minority Interest | (0) | 7 | 20 | 37 | 44 | 40 | 40 | 40 |
+| Provisions | 43 | 49 | 45 | 53 | 60 | 69 | 29 | 20 |
+| Debt | 1,218 | 1,348 | 1,172 | 1,137 | 1,432 | 1,802 | 1,652 | 1,402 |
+| Other non-current liabilities | - | - | - | 29 | 77 | 86 | 30 | 37 |
+| Total Liabilities | 2,929 | 3,320 | 4,035 | 4,363 | 5,569 | 6,077 | 6,013 | 6,090 |
+| Fixed assets | 437 | 443 | 465 | 487 | 496 | 630 | 937 | 1,013 |
+| Capital Work In Progress | 15 | 12 | 47 | 71 | 154 | 200 | 60 | 26 |
+| Other Intangible assets | 40 | 42 | 74 | 215 | 433 | 580 | 580 | 580 |
+| Goodwill | 26 | 26 | 26 | 26 | 26 | 26 | 26 | 26 |
+| Investments | 87 | 46 | 87 | 102 | 255 | 229 | 226 | 247 |
+| Other non current assets | 37 | 45 | 47 | 57 | 60 | 88 | 65 | 80 |
+| Net working capital | 1,535 | 1,931 | 2,366 | 2,537 | 3,265 | 3,220 | 2,671 | 3,147 |
+| Inventories | 344 | 435 | 573 | 758 | 774 | 899 | 823 | 995 |
+| Sundry debtors | 1,730 | 3,056 | 2,492 | 2,309 | 2,736 | 2,302 | 2,271 | 2,704 |
+| Loans &Advances | 21 | 18 | 37 | 31 | 29 | 27 | 20 | 25 |
+| Other current assets | 341 | 318 | 401 | 548 | 644 | 1,461 | 619 | 710 |
+| Sundry creditors | (815) | (1,748) | (1,037) | (878) | (808) | (1,079) | (962) | (1,175) |
+| Other current liabilities &Prov | (85) | (148) | (99) | (232) | (110) | (391) | (100) | (111) |
+| Cash | 192 | 306 | 528 | 323 | 336 | 491 | 870 | 293 |
+| Other Financial Assets | 560 | 468 | 395 | 546 | 544 | 612 | 578 | 679 |
+| Total Assets | 2,929 | 3,320 | 4,035 | 4,363 | 5,569 | 6,077 | 6,013 | 6,090 |
+
+Source: Company Reports, Arihant Capital Research
+
+## Du-Pont Analysis
+
+| Y/e 31 Mar | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26E | FY27E |
+|------------------------|--------|--------|--------|--------|--------|--------|---------|---------|
+| Tax burden (x) | 0.7 | 0.7 | 0.7 | 0.7 | 0.7 | 0.8 | 0.8 | 0.7 |
+| Interest burden (x) | 0.8 | 0.7 | 0.8 | 0.8 | 0.9 | 0.6 | 0.7 | 0.9 |
+| EBIT margin (x) | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 |
+| Asset turnover (x) | 1.3 | 1.1 | 1.0 | 1.0 | 0.9 | 0.7 | 0.9 | 1.1 |
+| Financial leverage (x) | 1.8 | 2.2 | 1.9 | 1.5 | 1.4 | 1.4 | 1.4 | 1.3 |
+| RoE (%) | 15.3% | 13.7% | 13.8% | 10.8% | 9.6% | 4.3% | 5.2% | 8.9% |
+
+Source: Company Reports, Arihant Capital Research
+
+## Financial Statements
+
+## Cashflow summary
+
+| Y/e 31 Mar (INR cr) | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26E | FY27E |
+|-------------------------|--------|--------|--------|--------|--------|--------|---------|---------|
+| Profit before tax | 358 | 337 | 442 | 431 | 454 | 217 | 285 | 532 |
+| Depreciation | 42 | 69 | 78 | 83 | 82 | 106 | 94 | 103 |
+| Tax paid | (121) | (91) | (116) | (113) | (117) | (43) | (67) | (136) |
+| Working capital ∆ | (504) | (396) | (434) | (171) | (728) | 45 | 549 | (476) |
+| Operating cashflow | (225) | (81) | (30) | 230 | (309) | 324 | 861 | 23 |
+| Capital expenditure | (228) | (72) | (135) | (128) | (174) | (286) | (260) | (146) |
+| Free cash flow | (452) | (153) | (166) | 101 | (483) | 38 | 602 | (124) |
+| Equity raised | 15 | 9 | 588 | 33 | 547 | (25) | - | - |
+| Investments | 6 | 41 | (41) | (15) | (153) | 26 | 3 | (21) |
+| Others | 47 | 81 | 39 | (302) | (219) | (244) | 57 | (116) |
+| Debt financing/disposal | 422 | 130 | (176) | (35) | 295 | 370 | (150) | (250) |
+| Dividends paid | (15) | - | (19) | (24) | (29) | (29) | (36) | (66) |
+| Other items | 10 | 6 | (4) | 37 | 55 | 18 | (96) | (2) |
+| Net ∆ in cash | 32 | 115 | 222 | (206) | 14 | 155 | 379 | (578) |
+| Opening Cash Flow | 159 | 192 | 306 | 528 | 323 | 336 | 491 | 870 |
+| Closing Cash Flow | 192 | 306 | 528 | 323 | 336 | 491 | 870 | 293 |
+
+Source: Company Reports, Arihant Capital Research
+
+## Ratio analysis
+
+| Y/e 31 Mar | FY20 | FY21 | FY22 | FY23 | FY24 | FY25 | FY26E | FY27E |
+|--------------------------|--------|--------|--------|--------|--------|--------|---------|---------|
+| Growth matrix (%) | | | | | | | | |
+| Revenue growth | -19.0% | 15.2% | 6.9% | 0.3% | -5.9% | -9.0% | 23.6% | 22.8% |
+| Op profit growth | 18.9% | 11.2% | 18.3% | -4.8% | -6.0% | -22.8% | 15.9% | 28.5% |
+| Profitability ratios (%) | | | | | | | | |
+| OPM | 12.9% | 12.4% | 13.8% | 13.0% | 13.0% | 11.0% | 10.4% | 10.8% |
+| Net profit margin | 6.2% | 5.6% | 6.9% | 6.7% | 7.6% | 4.3% | 4.3% | 6.4% |
+| RoCE | 12.1% | 12.1% | 12.4% | 10.3% | 9.2% | 5.6% | 6.3% | 8.9% |
+| RoNW | 15.3% | 13.7% | 13.8% | 10.8% | 9.6% | 4.3% | 5.2% | 8.9% |
+| RoA | 8.1% | 7.4% | 8.1% | 7.3% | 6.1% | 2.9% | 3.6% | 6.5% |
+| Per share ratios (INR) | | | | | | | | |
+| EPS | 1.9 | 2.0 | 2.4 | 2.3 | 3.2 | 1.0 | 1.5 | 2.7 |
+| Dividend per share | 0.1 | - | 0.1 | 0.2 | 0.2 | 0.2 | 0.3 | 0.5 |
+| Cash EPS | 2.2 | 2.5 | 2.9 | 2.9 | 2.9 | 1.9 | 2.2 | 3.5 |
+| Book value per share | 13.0 | 14.9 | 20.4 | 22.6 | 27.5 | 28.3 | 29.5 | 31.8 |
+| Valuation ratios (x) | | | | | | | | |
+| P/E | 40.9 | 38.8 | 31.9 | 32.7 | 23.4 | 79.7 | 50.1 | 27.7 |
+| P/CEPS | 34.9 | 31.0 | 25.8 | 26.1 | 26.1 | 39.3 | 35.1 | 21.9 |
+| P/B | 5.8 | 5.1 | 3.7 | 3.4 | 2.8 | 2.7 | 2.6 | 2.4 |
+| EV/EBITDA | 21.6 | 19.6 | 16.9 | 18.0 | 20.2 | 26.8 | 22.1 | 17.7 |
+| Payout (%) | | | | | | | | |
+| Dividend payout | 6.5% | 0.0% | 5.8% | 7.7% | 8.5% | 16.6% | 16.6% | 16.6% |
+| Tax payout | 33.8% | 26.9% | 26.3% | 26.2% | 25.7% | 20.0% | 23.5% | 25.6% |
+| Liquidity ratios | | | | | | | | |
+| Debtor days | 157 | 197 | 214 | 185 | 206 | 226 | 166 | 147 |
+| Inventory days | 38 | 42 | 53 | 70 | 87 | 104 | 88 | 76 |
+| Creditor days | 92 | 121 | 125 | 85 | 79 | 95 | 83 | 71 |
+| WCDays | 103 | 118 | 142 | 170 | 214 | 235 | 171 | 152 |
+| Leverage ratios (x) | | | | | | | | |
+| Interest coverage | 3.9 | 2.8 | 3.4 | 3.5 | 3.4 | 1.9 | 2.1 | 3.1 |
+| Net debt / equity | 0.6 | 0.5 | 0.2 | 0.3 | 0.3 | 0.3 | 0.2 | 0.2 |
+| Net debt / op. profit | 2.1 | 1.9 | 1.0 | 1.3 | 1.9 | 2.9 | 1.5 | 1.7 |
+
+Source: Company Reports, Arihant Capital Research
+
+## Story in Charts
+
+Exhibit 5: Revenue is expected to grow at 23.2% CAGR over the period of FY25-FY27E.
+
+Exhibit 7: Growth in EBITDA &amp; PAT levels
+
+Exhibit 9: Telecom products WC cycle is lower and increase in products share would improved working capital days.
+
+Source: Company reports, Arihant Capital Research
+
+Exhibit 6: Softening of RM costs will lead to improvement in gross margins.
+
+Exhibit 8: Return ratios to be improve
+
+Exhibit 10: Cash flows to be improve
+
+## Arihant Research Desk
+
+Email: instresearch@arihantcapital.com
+
+Tel. : 022-42254800
+
+## Head Office
+
+## Registered Office
+
+#1011, Solitaire Corporate Park
+
+Building No. 10, 1 st Floor
+
+6 Lad Colony,
+
+Andheri Ghatkopar Link Road
+
+Y.N. Road,
+
+Chakala, Andheri (E)
+
+Indore - 452003, (M.P.)
+
+Mumbai - 400093
+
+Tel: (91-731) 4217100/101
+
+Tel: (91-22) 42254800
+
+CIN: L66120MP1992PLC007182
+
+## Stock Rating Scale
+
+## Absolute Return
+
+BUY
+
+&gt;20%
+
+ACCUMULATE
+
+12% to 20%
+
+HOLD
+
+5% to 12%
+
+NEUTRAL
+
+-5% to 5%
+
+REDUCE
+
+-5% to -12%
+
+SELL
+
+&lt;-12%
+
+Research Analyst Registration No.
+
+Contact
+
+Website
+
+Email Id
+
+INH000002764
+
+SMS: 'Arihant' to 56677
+
+www.arihantcapital.com
+
+instresearch@arihantcapital.com
+
+## Arihant Capital Markets Ltd.
+
+1011, Solitaire Corporate park, Building No. 10, 1st Floor, Andheri Ghatkopar Link Road, Chakala, Andheri (E) Tel. 022-42254800
+
+Disclaimer: This disclosure statement is provided in compliance with the SEBI Research Analyst Regulations, 2014. Arihant Capital Markets Limited (ACML) is a registered stockbroker, merchant banker, and research analyst under SEBI, and is also a Point of Presence with the Pension Fund Regulatory and Development Authority (PFRDA). ACML is registered with SEBI with Research Analyst Registration Number INH000002764, Stock Broker Registration Number INZ000180939, and is a Trading Member with NSE, BSE, MCX, NCDEX, and a Depository Participant with CDSL and NSDL.
+
+ACML and its associates may have business relationships, including investment banking, with companies covered by its Investment Research Department. The analysts of ACML, and their associates, are prohibited from holding a financial interest in securities or derivatives of companies they cover, though they may hold stock in the companies they analyze. The recommendations provided by ACML's research team are based on technical and derivative analysis and may differ from fundamental research reports.
+
+ACML confirms that neither it nor its associates have a financial interest or material conflict concerning the companies covered in the research report at the time of publication. Furthermore, ACML, its analysts, and their relatives have no ownership greater than 1% in the subject companies as of the month prior to publication. ACML guarantees that the compensation for its research analysts is not influenced by specific securities or transactions.
+
+ACML affirms that neither the analyst nor the company has served as an officer, director, employee, or engaged in market-making activities for any of the subject companies. Additionally, the research report does not reflect any conflict of interest and is not influenced by specific recommendations made. Neither ACML nor its analysts have received compensation for investment banking or brokerage services from the subject companies in the last 12 months.
+
+The views expressed in this report are those of the analysts and are independent of the proprietary trading desk of ACML, which operates separately to maintain an unbiased stance. Analysts comply with SEBI Regulations when offering recommendations or opinions through public media. The report is intended for informational purposes only and is not an offer or solicitation for the purchase or sale of securities.
+
+This report, which is confidential, may not be reproduced or shared without written consent from ACML. It is based on publicly available data believed to be reliable but has not been independently verified, and no guarantees are made about its accuracy. All opinions and information contained in the report are subject to change without notice. ACML disclaims liability for any losses resulting from reliance on this report. The report does not constitute an offer to buy or sell securities, and ACML is not responsible for the risks involved in investments. ACML and its affiliates may have positions in the securities discussed or hold other financial interests in them.
+
+The distribution of this report in certain jurisdictions may be restricted by law, and the report is not intended for distribution where it would violate local laws. Investors are advised to consider their financial position, risk tolerance, and investment objectives before engaging in transactions, particularly in high-risk financial products such as derivatives.
+
+ACML reserves the right to modify this disclosure statement without prior notice. The report has been prepared using publicly available information and internally developed data, though ACML does not guarantee its completeness or accuracy. Historical price data for securities can be accessed via official exchanges like NSE or BSE. ACML and its affiliates may conduct proprietary transactions or investment banking services for the companies mentioned in this report. In compliance with SEBI regulations, ACML maintains comprehensive records of research reports, recommendations, and the rationale for those recommendations, which are preserved for at least five years. An annual compliance audit is conducted by a member of the ICAI or ICSI to ensure adherence to applicable regulations. This report is issued in accordance with applicable SEBI regulations and does not guarantee future performance or returns.
+
+## Arihant Capital Markets Ltd.
+
+1011, Solitaire Corporate park, Building No. 10, 1st Floor, Andheri Ghatkopar Link Road, Chakala, Andheri (E) Tel. 022-42254800
